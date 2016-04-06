@@ -1,0 +1,21 @@
+/* add custom styles */
+.container {
+  padding: 50px;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.poke-pic {
+  margin: 0 auto;
+}
+
+.loading-pic {
+  position: relative;
+  left: 225px;
+}
